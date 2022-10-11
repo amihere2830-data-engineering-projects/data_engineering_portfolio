@@ -8,9 +8,9 @@ This repository showcases skills, publisize projects and track my progress in Da
 ## Table of contents
 - [About](#about)
 - [Portfolio Projects](#portfolio-projects)
-	+ [NPA Data](#npa_data_extraction)
-       + [Download and save excel workbook](#download_save_excel_workbook)
-       + [Save Data in Database](#save_data)
+    + [NPA Data](#npa_data_extraction)
+	    + [Download and save excel workbook](#download_save_excel_workbook)
+	    + [Save Data in Database](#save_data)
 
 
 
