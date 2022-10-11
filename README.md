@@ -28,5 +28,5 @@ The data include:
 
 #### Download and save excel workbook
 **Codes:** [`download_workBook.py`](https://github.com/SamuelAmihere/NPA-Data/blob/main/download_workBooks.py)
-#### Save Data in Database
+#### Save Data into Database
 **Codes:** [`main.py`](https://github.com/SamuelAmihere/NPA-Data/blob/main/main.py)
