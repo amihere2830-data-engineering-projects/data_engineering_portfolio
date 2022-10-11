@@ -27,6 +27,10 @@ The data include:
 <br>
 **Skills:** ETL design, data cleaning, data injection.
 <br>
+|-clean_data
+|-info
+|-download_workBook.py
+|-main.py
 **Technology:** Python, Pandas, Mongodb. 
 #### Download and save excel workbook
 **Codes:** [`download_workBook.py`](https://github.com/SamuelAmihere/NPA-Data/blob/main/download_workBooks.py)
