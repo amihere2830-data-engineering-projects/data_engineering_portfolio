@@ -19,6 +19,9 @@ This repository showcases skills, publisize projects and track my progress in Da
 In this section I will list data analytics projects briefly describing the technology pile used to address cases.
 
 ### NPA Data
+<p align="center">
+    <img src="files_structure_npa.PNG">
+</p>
 **Codes:** [`NPA`](https://github.com/SamuelAmihere/NPA-Data)  
 
 **Description:** The project extracts messy excel files from npa, clean them to obtain necessary data to be saved in a mongodb database
