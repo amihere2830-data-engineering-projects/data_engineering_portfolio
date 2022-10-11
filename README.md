@@ -21,10 +21,9 @@ In this section I will list data analytics projects briefly describing the techn
 ### NPA Data
 
 **Codes:** [`NPA`](https://github.com/SamuelAmihere/NPA-Data)  
-<p align="left">
-    <img src="files_structure_npa.PNG"/>
-</p>
-<br>
+
+<img src="files_structure_npa.PNG"/>
+
 **Description:** The project extracts messy excel files from npa, clean them to obtain necessary data to be saved in a mongodb database
 The data include:
     - Companies in Ghana's oil & gas downstream petroleum and quantity of petroleum products sold 
