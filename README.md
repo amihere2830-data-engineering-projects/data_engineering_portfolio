@@ -22,7 +22,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Codes:** [`NPA`](https://github.com/SamuelAmihere/NPA-Data)  
 <p align="left">
-    <img src="files_structure_npa.PNG">
+    <img src="files_structure_npa.PNG"/>
 </p>
 <br>
 **Description:** The project extracts messy excel files from npa, clean them to obtain necessary data to be saved in a mongodb database
