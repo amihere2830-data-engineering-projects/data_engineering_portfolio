@@ -24,8 +24,9 @@ In this section I will list data analytics projects briefly describing the techn
 The data include:
     - Companies in Ghana's oil & gas downstream petroleum and quantity of petroleum products sold 
     - Petroleum products supplied in both domestic and exports. Prices and taxes on the products from 1989 to date
-**Skills:** data cleaning, data analysis, descriptive statistics, hypothesis testing, data visualization.
-
+<br>
+**Skills:** ETL design, data cleaning, data injection.
+**Technology:** Python, Pandas, Mongodb. 
 #### Download and save excel workbook
 **Codes:** [`download_workBook.py`](https://github.com/SamuelAmihere/NPA-Data/blob/main/download_workBooks.py)
 #### Save Data into Database
